@@ -1,0 +1,23 @@
+{
+  "name": "rewire-client-env",
+  "version": "1.0.0",
+  "description": "react-app-rewired add client env",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClivarLee/rewire-client-env.git"
+  },
+  "keywords": [
+    "react-app-rewired",
+    "create-react-app"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ClivarLee/rewire-client-env/issues"
+  },
+  "homepage": "https://github.com/ClivarLee/rewire-client-env#readme"
+}
